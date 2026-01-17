@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-SDL3Integration-0002.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:/Unreal/DLLTest_1028_AL_2/Intermediate/Build/Win64/x64/DLLTest_1028_AL_2Editor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"C:/Unreal/DLLTest_1028_AL_2/Plugins/SDL3Integration/SDL3Integration/Intermediate/Build/Win64/x64/UnrealEditor/Development/SDL3Integration/Module.SDL3Integration.cpp.obj"
+"C:/Unreal/DLLTest_1028_AL_2/Plugins/SDL3Integration/SDL3Integration/Intermediate/Build/Win64/x64/UnrealEditor/Development/SDL3Integration/SDL3Integration.cpp.obj"
+"C:/Unreal/DLLTest_1028_AL_2/Plugins/SDL3Integration/SDL3Integration/Intermediate/Build/Win64/x64/UnrealEditor/Development/SDL3Integration/USDL3InputComponent.cpp.obj"
+"C:/Unreal/DLLTest_1028_AL_2/Plugins/SDL3Integration/SDL3Integration/Intermediate/Build/Win64/x64/UnrealEditor/Development/SDL3Integration/USDL3Log.cpp.obj"
+"C:/Unreal/DLLTest_1028_AL_2/Plugins/SDL3Integration/SDL3Integration/Intermediate/Build/Win64/x64/UnrealEditor/Development/SDL3Integration/USDLJoystickSubsystem.cpp.obj"
+"C:/Unreal/DLLTest_1028_AL_2/Plugins/SDL3Integration/SDL3Integration/Intermediate/Build/Win64/x64/UnrealEditor/Development/SDL3Integration/Default.rc2.res"
+/OUT:"C:/Unreal/DLLTest_1028_AL_2/Plugins/SDL3Integration/SDL3Integration/Intermediate/Build/Win64/x64/UnrealEditor/Development/SDL3Integration/UnrealEditor-SDL3Integration-0002.lib"

@@ -1,0 +1,15 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.SDL3Integration.cpp.obj": [
+			"SDL3Integration.init.gen.cpp.obj",
+			"USDL3InputComponent.gen.cpp.obj",
+			"USDLJoystickSubsystem.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"SDL3Integration.cpp.obj",
+			"USDL3InputComponent.cpp.obj",
+			"USDL3Log.cpp.obj",
+			"USDLJoystickSubsystem.cpp.obj"
+		]
+	}
+}

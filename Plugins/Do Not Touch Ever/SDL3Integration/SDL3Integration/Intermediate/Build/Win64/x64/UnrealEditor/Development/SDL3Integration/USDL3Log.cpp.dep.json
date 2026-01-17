@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\unreal\\dlltest_1028_al_2\\plugins\\sdl3integration\\sdl3integration\\source\\sdl3integration\\private\\usdl3log.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\unreal\\dlltest_1028_al_2\\intermediate\\build\\win64\\x64\\dlltest_1028_al_2editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\unreal\\dlltest_1028_al_2\\plugins\\sdl3integration\\sdl3integration\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\sdl3integration\\definitions.sdl3integration.h",
+            "c:\\unreal\\dlltest_1028_al_2\\plugins\\sdl3integration\\sdl3integration\\source\\sdl3integration\\public\\usdl3log.h",
+            "c:\\unreal\\dlltest_1028_al_2\\plugins\\sdl3integration\\sdl3integration\\source\\sdl3integration\\public\\sdl3integration.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
