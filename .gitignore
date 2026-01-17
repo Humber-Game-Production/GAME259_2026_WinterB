@@ -1,0 +1,62 @@
+#-------------------------------------------------------------------------
+# Unreal Engine Standard GitIgnore
+#-------------------------------------------------------------------------
+
+# Compiled Binaries and Build Outputs
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+Script/
+EncryptedPak/
+
+# Ignore the entire .vs folder (Visual Studio private settings)
+.vs/
+
+# Visual Studio / IDE Generated Files
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+*.layout
+*.swp
+*.DS_Store
+*.opendb
+*.db
+
+# Specific File Extensions to Ignore
+*.o
+*.obj
+*.pdb
+*.dll
+*.exe
+*.log
+*.tmp
+*.bak
+*.orig
+*.swp
+
+# Don't ignore the project file itself!
+!*.uproject
+
+# Plugins - Ignore their binaries and intermediate files too
+Plugins/*/Binaries/
+Plugins/*/Intermediate/
+
+#-------------------------------------------------------------------------
+# Source Control for Assets (LFS handled elsewhere, but ignore these)
+#-------------------------------------------------------------------------
+
+# Metadata files created by some OS/Tools
+Thumbs.db
+desktop.ini
+
+#-------------------------------------------------------------------------
+# OPTIONAL: Built Data
+#-------------------------------------------------------------------------
+# If you are working ALONE, you can ignore BuiltData to save space. 
+# If working in a TEAM, comment this out so others see your lighting builds.
+# *_BuiltData.uasset
