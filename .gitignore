@@ -3,7 +3,7 @@
 #-------------------------------------------------------------------------
 
 # Compiled Binaries and Build Outputs
-
+Binaries/
 Build/
 DerivedDataCache/
 Intermediate/
