@@ -19,7 +19,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 enum class EInputType : uint8;
 
 // ********** Begin Delegate FOnButtonAction *******************************************************
-#define FID_Unreal_DLLTest_1028_AL_2_Plugins_SDL3Integration_Source_SDL3Integration_Public_USDLJoystickButton_h_20_DELEGATE \
+#define FID_Users_fmcadtech_Documents_GAME259_2026_WinterB_Plugins_Do_Not_Touch_Ever_SDL3Integration_Source_SDL3Integration_Public_USDLJoystickButton_h_20_DELEGATE \
 SDL3INTEGRATION_API void FOnButtonAction_DelegateWrapper(const FMulticastScriptDelegate& OnButtonAction, int32 ButtonID, EInputType InputType, float Duration);
 
 
@@ -28,7 +28,7 @@ SDL3INTEGRATION_API void FOnButtonAction_DelegateWrapper(const FMulticastScriptD
 // ********** Begin Class USDLJoystickButton *******************************************************
 SDL3INTEGRATION_API UClass* Z_Construct_UClass_USDLJoystickButton_NoRegister();
 
-#define FID_Unreal_DLLTest_1028_AL_2_Plugins_SDL3Integration_Source_SDL3Integration_Public_USDLJoystickButton_h_25_INCLASS_NO_PURE_DECLS \
+#define FID_Users_fmcadtech_Documents_GAME259_2026_WinterB_Plugins_Do_Not_Touch_Ever_SDL3Integration_Source_SDL3Integration_Public_USDLJoystickButton_h_25_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUSDLJoystickButton(); \
 	friend struct Z_Construct_UClass_USDLJoystickButton_Statics; \
@@ -39,7 +39,7 @@ public: \
 	DECLARE_SERIALIZER(USDLJoystickButton)
 
 
-#define FID_Unreal_DLLTest_1028_AL_2_Plugins_SDL3Integration_Source_SDL3Integration_Public_USDLJoystickButton_h_25_ENHANCED_CONSTRUCTORS \
+#define FID_Users_fmcadtech_Documents_GAME259_2026_WinterB_Plugins_Do_Not_Touch_Ever_SDL3Integration_Source_SDL3Integration_Public_USDLJoystickButton_h_25_ENHANCED_CONSTRUCTORS \
 	/** Deleted move- and copy-constructors, should never be used */ \
 	USDLJoystickButton(USDLJoystickButton&&) = delete; \
 	USDLJoystickButton(const USDLJoystickButton&) = delete; \
@@ -49,12 +49,12 @@ public: \
 	NO_API virtual ~USDLJoystickButton();
 
 
-#define FID_Unreal_DLLTest_1028_AL_2_Plugins_SDL3Integration_Source_SDL3Integration_Public_USDLJoystickButton_h_22_PROLOG
-#define FID_Unreal_DLLTest_1028_AL_2_Plugins_SDL3Integration_Source_SDL3Integration_Public_USDLJoystickButton_h_25_GENERATED_BODY \
+#define FID_Users_fmcadtech_Documents_GAME259_2026_WinterB_Plugins_Do_Not_Touch_Ever_SDL3Integration_Source_SDL3Integration_Public_USDLJoystickButton_h_22_PROLOG
+#define FID_Users_fmcadtech_Documents_GAME259_2026_WinterB_Plugins_Do_Not_Touch_Ever_SDL3Integration_Source_SDL3Integration_Public_USDLJoystickButton_h_25_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Unreal_DLLTest_1028_AL_2_Plugins_SDL3Integration_Source_SDL3Integration_Public_USDLJoystickButton_h_25_INCLASS_NO_PURE_DECLS \
-	FID_Unreal_DLLTest_1028_AL_2_Plugins_SDL3Integration_Source_SDL3Integration_Public_USDLJoystickButton_h_25_ENHANCED_CONSTRUCTORS \
+	FID_Users_fmcadtech_Documents_GAME259_2026_WinterB_Plugins_Do_Not_Touch_Ever_SDL3Integration_Source_SDL3Integration_Public_USDLJoystickButton_h_25_INCLASS_NO_PURE_DECLS \
+	FID_Users_fmcadtech_Documents_GAME259_2026_WinterB_Plugins_Do_Not_Touch_Ever_SDL3Integration_Source_SDL3Integration_Public_USDLJoystickButton_h_25_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -64,6 +64,6 @@ class USDLJoystickButton;
 // ********** End Class USDLJoystickButton *********************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_Unreal_DLLTest_1028_AL_2_Plugins_SDL3Integration_Source_SDL3Integration_Public_USDLJoystickButton_h
+#define CURRENT_FILE_ID FID_Users_fmcadtech_Documents_GAME259_2026_WinterB_Plugins_Do_Not_Touch_Ever_SDL3Integration_Source_SDL3Integration_Public_USDLJoystickButton_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

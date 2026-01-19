@@ -58,9 +58,9 @@ USDLJoystick* USDLJoystickSubsystem::GetJoystickComponentByName(FName DeviceName
 {
     ID = -1; // default if not found
 
-    if (int32 FoundID = *JoystickNameMap.Find(DeviceName))
+    if (JoystickNameMap.Find(DeviceName))
     {
-        ID = FoundID;
+        ID = *JoystickNameMap.Find(DeviceName);
         return *JoystickComponents.Find(ID);
     }
 

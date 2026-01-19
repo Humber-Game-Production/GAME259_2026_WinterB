@@ -374,14 +374,14 @@ USDLJoystickSubsystem::~USDLJoystickSubsystem() {}
 // ********** End Class USDLJoystickSubsystem ******************************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_Unreal_DLLTest_1028_AL_2_Plugins_SDL3Integration_Source_SDL3Integration_Public_USDLJoystickSubsystem_h__Script_SDL3Integration_Statics
+struct Z_CompiledInDeferFile_FID_Users_fmcadtech_Documents_GAME259_2026_WinterB_Plugins_Do_Not_Touch_Ever_SDL3Integration_Source_SDL3Integration_Public_USDLJoystickSubsystem_h__Script_SDL3Integration_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_USDLJoystickSubsystem, USDLJoystickSubsystem::StaticClass, TEXT("USDLJoystickSubsystem"), &Z_Registration_Info_UClass_USDLJoystickSubsystem, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(USDLJoystickSubsystem), 4287576098U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Unreal_DLLTest_1028_AL_2_Plugins_SDL3Integration_Source_SDL3Integration_Public_USDLJoystickSubsystem_h__Script_SDL3Integration_2394759305(TEXT("/Script/SDL3Integration"),
-	Z_CompiledInDeferFile_FID_Unreal_DLLTest_1028_AL_2_Plugins_SDL3Integration_Source_SDL3Integration_Public_USDLJoystickSubsystem_h__Script_SDL3Integration_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Unreal_DLLTest_1028_AL_2_Plugins_SDL3Integration_Source_SDL3Integration_Public_USDLJoystickSubsystem_h__Script_SDL3Integration_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_fmcadtech_Documents_GAME259_2026_WinterB_Plugins_Do_Not_Touch_Ever_SDL3Integration_Source_SDL3Integration_Public_USDLJoystickSubsystem_h__Script_SDL3Integration_2394759305(TEXT("/Script/SDL3Integration"),
+	Z_CompiledInDeferFile_FID_Users_fmcadtech_Documents_GAME259_2026_WinterB_Plugins_Do_Not_Touch_Ever_SDL3Integration_Source_SDL3Integration_Public_USDLJoystickSubsystem_h__Script_SDL3Integration_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_fmcadtech_Documents_GAME259_2026_WinterB_Plugins_Do_Not_Touch_Ever_SDL3Integration_Source_SDL3Integration_Public_USDLJoystickSubsystem_h__Script_SDL3Integration_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // ********** End Registration *********************************************************************

@@ -3,11 +3,14 @@
 	"EngineAssociation": "5.6",
 	"Category": "",
 	"Description": "",
-	"Plugins": [
+	"Modules": [
 		{
-			"Name": "RawInput",
-			"Enabled": true
-		},
+			"Name": "DeathRace",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
 		{
 			"Name": "ModelingToolsEditorMode",
 			"Enabled": true,

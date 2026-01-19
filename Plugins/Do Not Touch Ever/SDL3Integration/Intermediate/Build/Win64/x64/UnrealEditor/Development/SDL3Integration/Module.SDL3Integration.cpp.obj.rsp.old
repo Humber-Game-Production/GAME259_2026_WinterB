@@ -1,15 +1,18 @@
-"C:\Users\popho\OneDrive\Documents\Unreal Projects\Plugin\Plugins\SDL3Integration\SDL3Integration\Intermediate\Build\Win64\x64\UnrealEditor\Development\SDL3Integration\Module.SDL3Integration.cpp"
-/FI"C:\Users\popho\OneDrive\Documents\Unreal Projects\Plugin\Intermediate\Build\Win64\x64\PluginEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
-/FI"C:\Users\popho\OneDrive\Documents\Unreal Projects\Plugin\Plugins\SDL3Integration\SDL3Integration\Intermediate\Build\Win64\x64\UnrealEditor\Development\SDL3Integration\Definitions.SDL3Integration.h"
-/Yu"C:\Users\popho\OneDrive\Documents\Unreal Projects\Plugin\Intermediate\Build\Win64\x64\PluginEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
-/Fp"C:\Users\popho\OneDrive\Documents\Unreal Projects\Plugin\Intermediate\Build\Win64\x64\PluginEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.pch"
-/Fo"C:\Users\popho\OneDrive\Documents\Unreal Projects\Plugin\Plugins\SDL3Integration\SDL3Integration\Intermediate\Build\Win64\x64\UnrealEditor\Development\SDL3Integration\Module.SDL3Integration.cpp.obj"
-/sourceDependencies "C:\Users\popho\OneDrive\Documents\Unreal Projects\Plugin\Plugins\SDL3Integration\SDL3Integration\Intermediate\Build\Win64\x64\UnrealEditor\Development\SDL3Integration\Module.SDL3Integration.cpp.dep.json"
-@"C:\Users\popho\OneDrive\Documents\Unreal Projects\Plugin\Plugins\SDL3Integration\SDL3Integration\Intermediate\Build\Win64\x64\UnrealEditor\Development\SDL3Integration\SDL3Integration.Shared.rsp"
+"C:/Unreal/DLLTest_1028_AL_2/Plugins/SDL3Integration/Intermediate/Build/Win64/x64/UnrealEditor/Development/SDL3Integration/Module.SDL3Integration.cpp"
+@"C:/Unreal/DLLTest_1028_AL_2/Plugins/SDL3Integration/Intermediate/Build/Win64/x64/UnrealEditor/Development/SDL3Integration/SDL3Integration.Shared.rsp"
+/FI"C:/Unreal/DLLTest_1028_AL_2/Intermediate/Build/Win64/x64/DLLTest_1028_AL_2Editor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h"
+/FI"C:/Unreal/DLLTest_1028_AL_2/Plugins/SDL3Integration/Intermediate/Build/Win64/x64/UnrealEditor/Development/SDL3Integration/Definitions.SDL3Integration.h"
+/Yu"C:/Unreal/DLLTest_1028_AL_2/Intermediate/Build/Win64/x64/DLLTest_1028_AL_2Editor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h"
+/Fp"C:/Unreal/DLLTest_1028_AL_2/Intermediate/Build/Win64/x64/DLLTest_1028_AL_2Editor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.pch"
+/Fo"C:/Unreal/DLLTest_1028_AL_2/Plugins/SDL3Integration/Intermediate/Build/Win64/x64/UnrealEditor/Development/SDL3Integration/Module.SDL3Integration.cpp.obj"
+/experimental:log "C:/Unreal/DLLTest_1028_AL_2/Plugins/SDL3Integration/Intermediate/Build/Win64/x64/UnrealEditor/Development/SDL3Integration/Module.SDL3Integration.cpp.sarif"
+/sourceDependencies "C:/Unreal/DLLTest_1028_AL_2/Plugins/SDL3Integration/Intermediate/Build/Win64/x64/UnrealEditor/Development/SDL3Integration/Module.SDL3Integration.cpp.dep.json"
+/d2ssa-cfg-question-
 /Zc:inline
 /nologo
 /Oi
 /FC
+/diagnostics:caret
 /c
 /Gw
 /Gy
@@ -37,15 +40,14 @@
 /fp:fast
 /Zo
 /Zp8
+/W4
 /we4456
 /we4458
 /we4459
-/we4668
 /wd4244
 /wd4838
 /TP
 /GR-
-/W4
 /std:c++20
 /Zc:preprocessor
 /wd5054
