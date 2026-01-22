@@ -19,7 +19,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 enum class EInputType : uint8;
 
 // ********** Begin Delegate FOnAxisTriggered ******************************************************
-#define FID_Users_fmcadtech_Documents_GAME259_2026_WinterB_Plugins_Do_Not_Touch_Ever_SDL3Integration_Source_SDL3Integration_Public_USDLJoystickAxis_h_13_DELEGATE \
+#define FID_Prod2_TeamB_Plugins_Do_Not_Touch_Ever_SDL3Integration_Source_SDL3Integration_Public_USDLJoystickAxis_h_13_DELEGATE \
 SDL3INTEGRATION_API void FOnAxisTriggered_DelegateWrapper(const FMulticastScriptDelegate& OnAxisTriggered, int32 AxisID, EInputType inputType, FVector2D Value, float ElapsedTime);
 
 
@@ -28,7 +28,7 @@ SDL3INTEGRATION_API void FOnAxisTriggered_DelegateWrapper(const FMulticastScript
 // ********** Begin Class USDLJoystickAxis *********************************************************
 SDL3INTEGRATION_API UClass* Z_Construct_UClass_USDLJoystickAxis_NoRegister();
 
-#define FID_Users_fmcadtech_Documents_GAME259_2026_WinterB_Plugins_Do_Not_Touch_Ever_SDL3Integration_Source_SDL3Integration_Public_USDLJoystickAxis_h_22_INCLASS_NO_PURE_DECLS \
+#define FID_Prod2_TeamB_Plugins_Do_Not_Touch_Ever_SDL3Integration_Source_SDL3Integration_Public_USDLJoystickAxis_h_22_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUSDLJoystickAxis(); \
 	friend struct Z_Construct_UClass_USDLJoystickAxis_Statics; \
@@ -39,7 +39,7 @@ public: \
 	DECLARE_SERIALIZER(USDLJoystickAxis)
 
 
-#define FID_Users_fmcadtech_Documents_GAME259_2026_WinterB_Plugins_Do_Not_Touch_Ever_SDL3Integration_Source_SDL3Integration_Public_USDLJoystickAxis_h_22_ENHANCED_CONSTRUCTORS \
+#define FID_Prod2_TeamB_Plugins_Do_Not_Touch_Ever_SDL3Integration_Source_SDL3Integration_Public_USDLJoystickAxis_h_22_ENHANCED_CONSTRUCTORS \
 	/** Deleted move- and copy-constructors, should never be used */ \
 	USDLJoystickAxis(USDLJoystickAxis&&) = delete; \
 	USDLJoystickAxis(const USDLJoystickAxis&) = delete; \
@@ -49,12 +49,12 @@ public: \
 	NO_API virtual ~USDLJoystickAxis();
 
 
-#define FID_Users_fmcadtech_Documents_GAME259_2026_WinterB_Plugins_Do_Not_Touch_Ever_SDL3Integration_Source_SDL3Integration_Public_USDLJoystickAxis_h_18_PROLOG
-#define FID_Users_fmcadtech_Documents_GAME259_2026_WinterB_Plugins_Do_Not_Touch_Ever_SDL3Integration_Source_SDL3Integration_Public_USDLJoystickAxis_h_22_GENERATED_BODY \
+#define FID_Prod2_TeamB_Plugins_Do_Not_Touch_Ever_SDL3Integration_Source_SDL3Integration_Public_USDLJoystickAxis_h_18_PROLOG
+#define FID_Prod2_TeamB_Plugins_Do_Not_Touch_Ever_SDL3Integration_Source_SDL3Integration_Public_USDLJoystickAxis_h_22_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Users_fmcadtech_Documents_GAME259_2026_WinterB_Plugins_Do_Not_Touch_Ever_SDL3Integration_Source_SDL3Integration_Public_USDLJoystickAxis_h_22_INCLASS_NO_PURE_DECLS \
-	FID_Users_fmcadtech_Documents_GAME259_2026_WinterB_Plugins_Do_Not_Touch_Ever_SDL3Integration_Source_SDL3Integration_Public_USDLJoystickAxis_h_22_ENHANCED_CONSTRUCTORS \
+	FID_Prod2_TeamB_Plugins_Do_Not_Touch_Ever_SDL3Integration_Source_SDL3Integration_Public_USDLJoystickAxis_h_22_INCLASS_NO_PURE_DECLS \
+	FID_Prod2_TeamB_Plugins_Do_Not_Touch_Ever_SDL3Integration_Source_SDL3Integration_Public_USDLJoystickAxis_h_22_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -64,6 +64,6 @@ class USDLJoystickAxis;
 // ********** End Class USDLJoystickAxis ***********************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_Users_fmcadtech_Documents_GAME259_2026_WinterB_Plugins_Do_Not_Touch_Ever_SDL3Integration_Source_SDL3Integration_Public_USDLJoystickAxis_h
+#define CURRENT_FILE_ID FID_Prod2_TeamB_Plugins_Do_Not_Touch_Ever_SDL3Integration_Source_SDL3Integration_Public_USDLJoystickAxis_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

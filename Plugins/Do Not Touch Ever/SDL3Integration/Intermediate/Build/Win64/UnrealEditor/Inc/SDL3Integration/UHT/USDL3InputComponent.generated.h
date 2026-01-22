@@ -17,7 +17,7 @@
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
 
 // ********** Begin Delegate FOnSDLKeyPressed ******************************************************
-#define FID_Users_fmcadtech_Documents_GAME259_2026_WinterB_Plugins_Do_Not_Touch_Ever_SDL3Integration_Source_SDL3Integration_Public_USDL3InputComponent_h_8_DELEGATE \
+#define FID_Prod2_TeamB_Plugins_Do_Not_Touch_Ever_SDL3Integration_Source_SDL3Integration_Public_USDL3InputComponent_h_8_DELEGATE \
 SDL3INTEGRATION_API void FOnSDLKeyPressed_DelegateWrapper(const FMulticastScriptDelegate& OnSDLKeyPressed, const FString& KeyName);
 
 
@@ -26,7 +26,7 @@ SDL3INTEGRATION_API void FOnSDLKeyPressed_DelegateWrapper(const FMulticastScript
 // ********** Begin Class USDL3InputComponent ******************************************************
 SDL3INTEGRATION_API UClass* Z_Construct_UClass_USDL3InputComponent_NoRegister();
 
-#define FID_Users_fmcadtech_Documents_GAME259_2026_WinterB_Plugins_Do_Not_Touch_Ever_SDL3Integration_Source_SDL3Integration_Public_USDL3InputComponent_h_13_INCLASS_NO_PURE_DECLS \
+#define FID_Prod2_TeamB_Plugins_Do_Not_Touch_Ever_SDL3Integration_Source_SDL3Integration_Public_USDL3InputComponent_h_13_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUSDL3InputComponent(); \
 	friend struct Z_Construct_UClass_USDL3InputComponent_Statics; \
@@ -37,7 +37,7 @@ public: \
 	DECLARE_SERIALIZER(USDL3InputComponent)
 
 
-#define FID_Users_fmcadtech_Documents_GAME259_2026_WinterB_Plugins_Do_Not_Touch_Ever_SDL3Integration_Source_SDL3Integration_Public_USDL3InputComponent_h_13_ENHANCED_CONSTRUCTORS \
+#define FID_Prod2_TeamB_Plugins_Do_Not_Touch_Ever_SDL3Integration_Source_SDL3Integration_Public_USDL3InputComponent_h_13_ENHANCED_CONSTRUCTORS \
 	/** Deleted move- and copy-constructors, should never be used */ \
 	USDL3InputComponent(USDL3InputComponent&&) = delete; \
 	USDL3InputComponent(const USDL3InputComponent&) = delete; \
@@ -47,12 +47,12 @@ public: \
 	NO_API virtual ~USDL3InputComponent();
 
 
-#define FID_Users_fmcadtech_Documents_GAME259_2026_WinterB_Plugins_Do_Not_Touch_Ever_SDL3Integration_Source_SDL3Integration_Public_USDL3InputComponent_h_10_PROLOG
-#define FID_Users_fmcadtech_Documents_GAME259_2026_WinterB_Plugins_Do_Not_Touch_Ever_SDL3Integration_Source_SDL3Integration_Public_USDL3InputComponent_h_13_GENERATED_BODY \
+#define FID_Prod2_TeamB_Plugins_Do_Not_Touch_Ever_SDL3Integration_Source_SDL3Integration_Public_USDL3InputComponent_h_10_PROLOG
+#define FID_Prod2_TeamB_Plugins_Do_Not_Touch_Ever_SDL3Integration_Source_SDL3Integration_Public_USDL3InputComponent_h_13_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Users_fmcadtech_Documents_GAME259_2026_WinterB_Plugins_Do_Not_Touch_Ever_SDL3Integration_Source_SDL3Integration_Public_USDL3InputComponent_h_13_INCLASS_NO_PURE_DECLS \
-	FID_Users_fmcadtech_Documents_GAME259_2026_WinterB_Plugins_Do_Not_Touch_Ever_SDL3Integration_Source_SDL3Integration_Public_USDL3InputComponent_h_13_ENHANCED_CONSTRUCTORS \
+	FID_Prod2_TeamB_Plugins_Do_Not_Touch_Ever_SDL3Integration_Source_SDL3Integration_Public_USDL3InputComponent_h_13_INCLASS_NO_PURE_DECLS \
+	FID_Prod2_TeamB_Plugins_Do_Not_Touch_Ever_SDL3Integration_Source_SDL3Integration_Public_USDL3InputComponent_h_13_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -62,6 +62,6 @@ class USDL3InputComponent;
 // ********** End Class USDL3InputComponent ********************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_Users_fmcadtech_Documents_GAME259_2026_WinterB_Plugins_Do_Not_Touch_Ever_SDL3Integration_Source_SDL3Integration_Public_USDL3InputComponent_h
+#define CURRENT_FILE_ID FID_Prod2_TeamB_Plugins_Do_Not_Touch_Ever_SDL3Integration_Source_SDL3Integration_Public_USDL3InputComponent_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

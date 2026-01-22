@@ -1,12 +1,12 @@
-"C:/Users/fmcadtech/Documents/GAME259_2026_WinterB/Plugins/Do Not Touch Ever/SDL3Integration/Intermediate/Build/Win64/x64/UnrealEditor/Development/SDL3Integration/Module.SDL3Integration.cpp"
-@"C:/Users/fmcadtech/Documents/GAME259_2026_WinterB/Plugins/Do Not Touch Ever/SDL3Integration/Intermediate/Build/Win64/x64/UnrealEditor/Development/SDL3Integration/SDL3Integration.Shared.rsp"
-/FI"C:/Users/fmcadtech/Documents/GAME259_2026_WinterB/Intermediate/Build/Win64/x64/DeathRaceEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.InclOrderUnreal5_3.h"
-/FI"C:/Users/fmcadtech/Documents/GAME259_2026_WinterB/Plugins/Do Not Touch Ever/SDL3Integration/Intermediate/Build/Win64/x64/UnrealEditor/Development/SDL3Integration/Definitions.SDL3Integration.h"
-/Yu"C:/Users/fmcadtech/Documents/GAME259_2026_WinterB/Intermediate/Build/Win64/x64/DeathRaceEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.InclOrderUnreal5_3.h"
-/Fp"C:/Users/fmcadtech/Documents/GAME259_2026_WinterB/Intermediate/Build/Win64/x64/DeathRaceEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.InclOrderUnreal5_3.h.pch"
-/Fo"C:/Users/fmcadtech/Documents/GAME259_2026_WinterB/Plugins/Do Not Touch Ever/SDL3Integration/Intermediate/Build/Win64/x64/UnrealEditor/Development/SDL3Integration/Module.SDL3Integration.cpp.obj"
-/experimental:log "C:/Users/fmcadtech/Documents/GAME259_2026_WinterB/Plugins/Do Not Touch Ever/SDL3Integration/Intermediate/Build/Win64/x64/UnrealEditor/Development/SDL3Integration/Module.SDL3Integration.cpp.sarif"
-/sourceDependencies "C:/Users/fmcadtech/Documents/GAME259_2026_WinterB/Plugins/Do Not Touch Ever/SDL3Integration/Intermediate/Build/Win64/x64/UnrealEditor/Development/SDL3Integration/Module.SDL3Integration.cpp.dep.json"
+"S:/Prod2 TeamB/Plugins/Do Not Touch Ever/SDL3Integration/Intermediate/Build/Win64/x64/UnrealEditor/Development/SDL3Integration/Module.SDL3Integration.cpp"
+@"S:/Prod2 TeamB/Plugins/Do Not Touch Ever/SDL3Integration/Intermediate/Build/Win64/x64/UnrealEditor/Development/SDL3Integration/SDL3Integration.Shared.rsp"
+/FI"S:/Prod2 TeamB/Intermediate/Build/Win64/x64/DeathRaceEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.InclOrderUnreal5_3.h"
+/FI"S:/Prod2 TeamB/Plugins/Do Not Touch Ever/SDL3Integration/Intermediate/Build/Win64/x64/UnrealEditor/Development/SDL3Integration/Definitions.SDL3Integration.h"
+/Yu"S:/Prod2 TeamB/Intermediate/Build/Win64/x64/DeathRaceEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.InclOrderUnreal5_3.h"
+/Fp"S:/Prod2 TeamB/Intermediate/Build/Win64/x64/DeathRaceEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.InclOrderUnreal5_3.h.pch"
+/Fo"S:/Prod2 TeamB/Plugins/Do Not Touch Ever/SDL3Integration/Intermediate/Build/Win64/x64/UnrealEditor/Development/SDL3Integration/Module.SDL3Integration.cpp.obj"
+/experimental:log "S:/Prod2 TeamB/Plugins/Do Not Touch Ever/SDL3Integration/Intermediate/Build/Win64/x64/UnrealEditor/Development/SDL3Integration/Module.SDL3Integration.cpp.sarif"
+/sourceDependencies "S:/Prod2 TeamB/Plugins/Do Not Touch Ever/SDL3Integration/Intermediate/Build/Win64/x64/UnrealEditor/Development/SDL3Integration/Module.SDL3Integration.cpp.dep.json"
 /Zc:inline
 /nologo
 /Oi
