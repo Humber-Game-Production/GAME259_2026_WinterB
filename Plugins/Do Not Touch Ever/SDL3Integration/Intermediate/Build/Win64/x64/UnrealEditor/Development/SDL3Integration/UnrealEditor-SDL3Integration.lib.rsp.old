@@ -6,7 +6,7 @@
 /NAME:"UnrealEditor-SDL3Integration.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"C:/Users/fmcadtech/Documents/GAME259_2026_WinterB/Intermediate/Build/Win64/x64/DeathRaceEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.InclOrderUnreal5_3.h.obj"
-"C:/Users/fmcadtech/Documents/GAME259_2026_WinterB/Plugins/Do Not Touch Ever/SDL3Integration/Intermediate/Build/Win64/x64/UnrealEditor/Development/SDL3Integration/Module.SDL3Integration.cpp.obj"
-"C:/Users/fmcadtech/Documents/GAME259_2026_WinterB/Plugins/Do Not Touch Ever/SDL3Integration/Intermediate/Build/Win64/x64/UnrealEditor/Development/SDL3Integration/Default.rc2.res"
-/OUT:"C:/Users/fmcadtech/Documents/GAME259_2026_WinterB/Plugins/Do Not Touch Ever/SDL3Integration/Intermediate/Build/Win64/x64/UnrealEditor/Development/SDL3Integration/UnrealEditor-SDL3Integration.lib"
+"S:/Prod2 TeamB/Intermediate/Build/Win64/x64/DeathRaceEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.InclOrderUnreal5_3.h.obj"
+"S:/Prod2 TeamB/Plugins/Do Not Touch Ever/SDL3Integration/Intermediate/Build/Win64/x64/UnrealEditor/Development/SDL3Integration/Module.SDL3Integration.cpp.obj"
+"S:/Prod2 TeamB/Plugins/Do Not Touch Ever/SDL3Integration/Intermediate/Build/Win64/x64/UnrealEditor/Development/SDL3Integration/Default.rc2.res"
+/OUT:"S:/Prod2 TeamB/Plugins/Do Not Touch Ever/SDL3Integration/Intermediate/Build/Win64/x64/UnrealEditor/Development/SDL3Integration/UnrealEditor-SDL3Integration.lib"

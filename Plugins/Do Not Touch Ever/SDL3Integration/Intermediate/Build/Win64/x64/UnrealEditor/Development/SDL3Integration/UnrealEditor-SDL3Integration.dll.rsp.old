@@ -21,8 +21,8 @@
 /DELAYLOAD:"d3d12.dll"
 /DELAYLOAD:"DBGHELP.DLL"
 /LIBPATH:"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.44.35207/lib/x64"
-/LIBPATH:"C:/Program Files (x86)/Windows Kits/10/lib/10.0.26100.0/ucrt/x64"
-/LIBPATH:"C:/Program Files (x86)/Windows Kits/10/lib/10.0.26100.0/um/x64"
+/LIBPATH:"C:/Program Files (x86)/Windows Kits/10/lib/10.0.22621.0/ucrt/x64"
+/LIBPATH:"C:/Program Files (x86)/Windows Kits/10/lib/10.0.22621.0/um/x64"
 /NODEFAULTLIB:"LIBCMT"
 /NODEFAULTLIB:"LIBCPMT"
 /NODEFAULTLIB:"LIBCMTD"
@@ -36,10 +36,10 @@
 /FUNCTIONPADMIN:6
 /NOIMPLIB
 /NOEXP
-"C:/Users/fmcadtech/Documents/GAME259_2026_WinterB/Intermediate/Build/Win64/x64/DeathRaceEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.InclOrderUnreal5_3.h.obj"
-"C:/Users/fmcadtech/Documents/GAME259_2026_WinterB/Plugins/Do Not Touch Ever/SDL3Integration/Intermediate/Build/Win64/x64/UnrealEditor/Development/SDL3Integration/Module.SDL3Integration.cpp.obj"
-"C:/Users/fmcadtech/Documents/GAME259_2026_WinterB/Plugins/Do Not Touch Ever/SDL3Integration/Intermediate/Build/Win64/x64/UnrealEditor/Development/SDL3Integration/Default.rc2.res"
-"C:/Users/fmcadtech/Documents/GAME259_2026_WinterB/Plugins/Do Not Touch Ever/SDL3Integration/Source/ThirdParty/SDL3/Lib/Win64/SDL3.lib"
+"S:/Prod2 TeamB/Intermediate/Build/Win64/x64/DeathRaceEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.InclOrderUnreal5_3.h.obj"
+"S:/Prod2 TeamB/Plugins/Do Not Touch Ever/SDL3Integration/Intermediate/Build/Win64/x64/UnrealEditor/Development/SDL3Integration/Module.SDL3Integration.cpp.obj"
+"S:/Prod2 TeamB/Plugins/Do Not Touch Ever/SDL3Integration/Intermediate/Build/Win64/x64/UnrealEditor/Development/SDL3Integration/Default.rc2.res"
+"S:/Prod2 TeamB/Plugins/Do Not Touch Ever/SDL3Integration/Source/ThirdParty/SDL3/Lib/Win64/SDL3.lib"
 "../Intermediate/Build/Win64/x64/UnrealEditor/Development/Core/UnrealEditor-Core.lib"
 "../Intermediate/Build/Win64/x64/UnrealEditor/Development/CoreUObject/UnrealEditor-CoreUObject.lib"
 "../Intermediate/Build/Win64/x64/UnrealEditor/Development/Engine/UnrealEditor-Engine.lib"
@@ -69,6 +69,6 @@
 "synchronization.lib"
 "dwmapi.lib"
 "imm32.lib"
-/OUT:"C:/Users/fmcadtech/Documents/GAME259_2026_WinterB/Plugins/Do Not Touch Ever/SDL3Integration/Binaries/Win64/UnrealEditor-SDL3Integration.dll"
-/PDB:"C:/Users/fmcadtech/Documents/GAME259_2026_WinterB/Plugins/Do Not Touch Ever/SDL3Integration/Binaries/Win64/UnrealEditor-SDL3Integration.pdb"
+/OUT:"S:/Prod2 TeamB/Plugins/Do Not Touch Ever/SDL3Integration/Binaries/Win64/UnrealEditor-SDL3Integration.dll"
+/PDB:"S:/Prod2 TeamB/Plugins/Do Not Touch Ever/SDL3Integration/Binaries/Win64/UnrealEditor-SDL3Integration.pdb"
 /ignore:4078
