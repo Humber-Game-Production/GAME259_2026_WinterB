@@ -180,14 +180,14 @@ USDLJoystickAxis::~USDLJoystickAxis() {}
 // ********** End Class USDLJoystickAxis ***********************************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_Prod2_TeamB_Plugins_Do_Not_Touch_Ever_SDL3Integration_Source_SDL3Integration_Public_USDLJoystickAxis_h__Script_SDL3Integration_Statics
+struct Z_CompiledInDeferFile_FID_Humber_game_Plugins_Do_Not_Touch_Ever_SDL3Integration_Source_SDL3Integration_Public_USDLJoystickAxis_h__Script_SDL3Integration_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_USDLJoystickAxis, USDLJoystickAxis::StaticClass, TEXT("USDLJoystickAxis"), &Z_Registration_Info_UClass_USDLJoystickAxis, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(USDLJoystickAxis), 1743045642U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Prod2_TeamB_Plugins_Do_Not_Touch_Ever_SDL3Integration_Source_SDL3Integration_Public_USDLJoystickAxis_h__Script_SDL3Integration_4014576485(TEXT("/Script/SDL3Integration"),
-	Z_CompiledInDeferFile_FID_Prod2_TeamB_Plugins_Do_Not_Touch_Ever_SDL3Integration_Source_SDL3Integration_Public_USDLJoystickAxis_h__Script_SDL3Integration_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Prod2_TeamB_Plugins_Do_Not_Touch_Ever_SDL3Integration_Source_SDL3Integration_Public_USDLJoystickAxis_h__Script_SDL3Integration_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Humber_game_Plugins_Do_Not_Touch_Ever_SDL3Integration_Source_SDL3Integration_Public_USDLJoystickAxis_h__Script_SDL3Integration_4014576485(TEXT("/Script/SDL3Integration"),
+	Z_CompiledInDeferFile_FID_Humber_game_Plugins_Do_Not_Touch_Ever_SDL3Integration_Source_SDL3Integration_Public_USDLJoystickAxis_h__Script_SDL3Integration_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Humber_game_Plugins_Do_Not_Touch_Ever_SDL3Integration_Source_SDL3Integration_Public_USDLJoystickAxis_h__Script_SDL3Integration_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // ********** End Registration *********************************************************************

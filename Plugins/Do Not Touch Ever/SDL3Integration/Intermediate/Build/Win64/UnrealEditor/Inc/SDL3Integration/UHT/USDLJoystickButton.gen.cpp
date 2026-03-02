@@ -181,14 +181,14 @@ USDLJoystickButton::~USDLJoystickButton() {}
 // ********** End Class USDLJoystickButton *********************************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_Prod2_TeamB_Plugins_Do_Not_Touch_Ever_SDL3Integration_Source_SDL3Integration_Public_USDLJoystickButton_h__Script_SDL3Integration_Statics
+struct Z_CompiledInDeferFile_FID_Humber_game_Plugins_Do_Not_Touch_Ever_SDL3Integration_Source_SDL3Integration_Public_USDLJoystickButton_h__Script_SDL3Integration_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_USDLJoystickButton, USDLJoystickButton::StaticClass, TEXT("USDLJoystickButton"), &Z_Registration_Info_UClass_USDLJoystickButton, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(USDLJoystickButton), 1750775434U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Prod2_TeamB_Plugins_Do_Not_Touch_Ever_SDL3Integration_Source_SDL3Integration_Public_USDLJoystickButton_h__Script_SDL3Integration_590215160(TEXT("/Script/SDL3Integration"),
-	Z_CompiledInDeferFile_FID_Prod2_TeamB_Plugins_Do_Not_Touch_Ever_SDL3Integration_Source_SDL3Integration_Public_USDLJoystickButton_h__Script_SDL3Integration_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Prod2_TeamB_Plugins_Do_Not_Touch_Ever_SDL3Integration_Source_SDL3Integration_Public_USDLJoystickButton_h__Script_SDL3Integration_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Humber_game_Plugins_Do_Not_Touch_Ever_SDL3Integration_Source_SDL3Integration_Public_USDLJoystickButton_h__Script_SDL3Integration_590215160(TEXT("/Script/SDL3Integration"),
+	Z_CompiledInDeferFile_FID_Humber_game_Plugins_Do_Not_Touch_Ever_SDL3Integration_Source_SDL3Integration_Public_USDLJoystickButton_h__Script_SDL3Integration_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Humber_game_Plugins_Do_Not_Touch_Ever_SDL3Integration_Source_SDL3Integration_Public_USDLJoystickButton_h__Script_SDL3Integration_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // ********** End Registration *********************************************************************
