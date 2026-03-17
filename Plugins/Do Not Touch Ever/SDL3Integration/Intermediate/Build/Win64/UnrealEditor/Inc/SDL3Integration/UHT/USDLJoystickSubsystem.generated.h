@@ -19,28 +19,28 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 class USDLJoystick;
 
 // ********** Begin Delegate FOnJoystickConnected **************************************************
-#define FID_Humber_game_Plugins_Do_Not_Touch_Ever_SDL3Integration_Source_SDL3Integration_Public_USDLJoystickSubsystem_h_15_DELEGATE \
+#define FID_Users_gs007_Documents_HUMBER_PROJECTS_Racing_Gmae_Current_Local_Repo_2_Plugins_Do_Not_Touch_Ever_SDL3Integration_Source_SDL3Integration_Public_USDLJoystickSubsystem_h_15_DELEGATE \
 SDL3INTEGRATION_API void FOnJoystickConnected_DelegateWrapper(const FMulticastScriptDelegate& OnJoystickConnected, int32 DeviceId);
 
 
 // ********** End Delegate FOnJoystickConnected ****************************************************
 
 // ********** Begin Delegate FOnJoystickDisconnected ***********************************************
-#define FID_Humber_game_Plugins_Do_Not_Touch_Ever_SDL3Integration_Source_SDL3Integration_Public_USDLJoystickSubsystem_h_18_DELEGATE \
+#define FID_Users_gs007_Documents_HUMBER_PROJECTS_Racing_Gmae_Current_Local_Repo_2_Plugins_Do_Not_Touch_Ever_SDL3Integration_Source_SDL3Integration_Public_USDLJoystickSubsystem_h_18_DELEGATE \
 SDL3INTEGRATION_API void FOnJoystickDisconnected_DelegateWrapper(const FMulticastScriptDelegate& OnJoystickDisconnected, int32 DeviceId);
 
 
 // ********** End Delegate FOnJoystickDisconnected *************************************************
 
 // ********** Begin Class USDLJoystickSubsystem ****************************************************
-#define FID_Humber_game_Plugins_Do_Not_Touch_Ever_SDL3Integration_Source_SDL3Integration_Public_USDLJoystickSubsystem_h_25_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_Users_gs007_Documents_HUMBER_PROJECTS_Racing_Gmae_Current_Local_Repo_2_Plugins_Do_Not_Touch_Ever_SDL3Integration_Source_SDL3Integration_Public_USDLJoystickSubsystem_h_25_RPC_WRAPPERS_NO_PURE_DECLS \
 	DECLARE_FUNCTION(execGetJoystickComponentByName); \
 	DECLARE_FUNCTION(execGetJoystickComponentByID);
 
 
 SDL3INTEGRATION_API UClass* Z_Construct_UClass_USDLJoystickSubsystem_NoRegister();
 
-#define FID_Humber_game_Plugins_Do_Not_Touch_Ever_SDL3Integration_Source_SDL3Integration_Public_USDLJoystickSubsystem_h_25_INCLASS_NO_PURE_DECLS \
+#define FID_Users_gs007_Documents_HUMBER_PROJECTS_Racing_Gmae_Current_Local_Repo_2_Plugins_Do_Not_Touch_Ever_SDL3Integration_Source_SDL3Integration_Public_USDLJoystickSubsystem_h_25_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUSDLJoystickSubsystem(); \
 	friend struct Z_Construct_UClass_USDLJoystickSubsystem_Statics; \
@@ -51,7 +51,7 @@ public: \
 	DECLARE_SERIALIZER(USDLJoystickSubsystem)
 
 
-#define FID_Humber_game_Plugins_Do_Not_Touch_Ever_SDL3Integration_Source_SDL3Integration_Public_USDLJoystickSubsystem_h_25_ENHANCED_CONSTRUCTORS \
+#define FID_Users_gs007_Documents_HUMBER_PROJECTS_Racing_Gmae_Current_Local_Repo_2_Plugins_Do_Not_Touch_Ever_SDL3Integration_Source_SDL3Integration_Public_USDLJoystickSubsystem_h_25_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API USDLJoystickSubsystem(); \
 	/** Deleted move- and copy-constructors, should never be used */ \
@@ -63,13 +63,13 @@ public: \
 	NO_API virtual ~USDLJoystickSubsystem();
 
 
-#define FID_Humber_game_Plugins_Do_Not_Touch_Ever_SDL3Integration_Source_SDL3Integration_Public_USDLJoystickSubsystem_h_22_PROLOG
-#define FID_Humber_game_Plugins_Do_Not_Touch_Ever_SDL3Integration_Source_SDL3Integration_Public_USDLJoystickSubsystem_h_25_GENERATED_BODY \
+#define FID_Users_gs007_Documents_HUMBER_PROJECTS_Racing_Gmae_Current_Local_Repo_2_Plugins_Do_Not_Touch_Ever_SDL3Integration_Source_SDL3Integration_Public_USDLJoystickSubsystem_h_22_PROLOG
+#define FID_Users_gs007_Documents_HUMBER_PROJECTS_Racing_Gmae_Current_Local_Repo_2_Plugins_Do_Not_Touch_Ever_SDL3Integration_Source_SDL3Integration_Public_USDLJoystickSubsystem_h_25_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Humber_game_Plugins_Do_Not_Touch_Ever_SDL3Integration_Source_SDL3Integration_Public_USDLJoystickSubsystem_h_25_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_Humber_game_Plugins_Do_Not_Touch_Ever_SDL3Integration_Source_SDL3Integration_Public_USDLJoystickSubsystem_h_25_INCLASS_NO_PURE_DECLS \
-	FID_Humber_game_Plugins_Do_Not_Touch_Ever_SDL3Integration_Source_SDL3Integration_Public_USDLJoystickSubsystem_h_25_ENHANCED_CONSTRUCTORS \
+	FID_Users_gs007_Documents_HUMBER_PROJECTS_Racing_Gmae_Current_Local_Repo_2_Plugins_Do_Not_Touch_Ever_SDL3Integration_Source_SDL3Integration_Public_USDLJoystickSubsystem_h_25_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_Users_gs007_Documents_HUMBER_PROJECTS_Racing_Gmae_Current_Local_Repo_2_Plugins_Do_Not_Touch_Ever_SDL3Integration_Source_SDL3Integration_Public_USDLJoystickSubsystem_h_25_INCLASS_NO_PURE_DECLS \
+	FID_Users_gs007_Documents_HUMBER_PROJECTS_Racing_Gmae_Current_Local_Repo_2_Plugins_Do_Not_Touch_Ever_SDL3Integration_Source_SDL3Integration_Public_USDLJoystickSubsystem_h_25_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -79,6 +79,6 @@ class USDLJoystickSubsystem;
 // ********** End Class USDLJoystickSubsystem ******************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_Humber_game_Plugins_Do_Not_Touch_Ever_SDL3Integration_Source_SDL3Integration_Public_USDLJoystickSubsystem_h
+#define CURRENT_FILE_ID FID_Users_gs007_Documents_HUMBER_PROJECTS_Racing_Gmae_Current_Local_Repo_2_Plugins_Do_Not_Touch_Ever_SDL3Integration_Source_SDL3Integration_Public_USDLJoystickSubsystem_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
