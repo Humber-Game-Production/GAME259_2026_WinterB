@@ -6,7 +6,7 @@
 /NAME:"UnrealEditor-SDL3Integration.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"D:/Humber game/Intermediate/Build/Win64/x64/DeathRaceEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.InclOrderUnreal5_3.h.obj"
-"D:/Humber game/Plugins/Do Not Touch Ever/SDL3Integration/Intermediate/Build/Win64/x64/UnrealEditor/Development/SDL3Integration/Module.SDL3Integration.cpp.obj"
-"D:/Humber game/Plugins/Do Not Touch Ever/SDL3Integration/Intermediate/Build/Win64/x64/UnrealEditor/Development/SDL3Integration/Default.rc2.res"
-/OUT:"D:/Humber game/Plugins/Do Not Touch Ever/SDL3Integration/Intermediate/Build/Win64/x64/UnrealEditor/Development/SDL3Integration/UnrealEditor-SDL3Integration.lib"
+"C:/Users/gs007/Documents/HUMBER PROJECTS/Racing Gmae Current Local Repo 2/Intermediate/Build/Win64/x64/DeathRaceEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.InclOrderUnreal5_3.h.obj"
+"C:/Users/gs007/Documents/HUMBER PROJECTS/Racing Gmae Current Local Repo 2/Plugins/Do Not Touch Ever/SDL3Integration/Intermediate/Build/Win64/x64/UnrealEditor/Development/SDL3Integration/Module.SDL3Integration.cpp.obj"
+"C:/Users/gs007/Documents/HUMBER PROJECTS/Racing Gmae Current Local Repo 2/Plugins/Do Not Touch Ever/SDL3Integration/Intermediate/Build/Win64/x64/UnrealEditor/Development/SDL3Integration/Default.rc2.res"
+/OUT:"C:/Users/gs007/Documents/HUMBER PROJECTS/Racing Gmae Current Local Repo 2/Plugins/Do Not Touch Ever/SDL3Integration/Intermediate/Build/Win64/x64/UnrealEditor/Development/SDL3Integration/UnrealEditor-SDL3Integration.lib"

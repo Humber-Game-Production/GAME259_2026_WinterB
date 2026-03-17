@@ -605,14 +605,14 @@ USDLJoystick::~USDLJoystick() {}
 // ********** End Class USDLJoystick ***************************************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_Humber_game_Plugins_Do_Not_Touch_Ever_SDL3Integration_Source_SDL3Integration_Public_USDLJoystick_h__Script_SDL3Integration_Statics
+struct Z_CompiledInDeferFile_FID_Users_gs007_Documents_HUMBER_PROJECTS_Racing_Gmae_Current_Local_Repo_2_Plugins_Do_Not_Touch_Ever_SDL3Integration_Source_SDL3Integration_Public_USDLJoystick_h__Script_SDL3Integration_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_USDLJoystick, USDLJoystick::StaticClass, TEXT("USDLJoystick"), &Z_Registration_Info_UClass_USDLJoystick, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(USDLJoystick), 1481307928U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Humber_game_Plugins_Do_Not_Touch_Ever_SDL3Integration_Source_SDL3Integration_Public_USDLJoystick_h__Script_SDL3Integration_1439136289(TEXT("/Script/SDL3Integration"),
-	Z_CompiledInDeferFile_FID_Humber_game_Plugins_Do_Not_Touch_Ever_SDL3Integration_Source_SDL3Integration_Public_USDLJoystick_h__Script_SDL3Integration_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Humber_game_Plugins_Do_Not_Touch_Ever_SDL3Integration_Source_SDL3Integration_Public_USDLJoystick_h__Script_SDL3Integration_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_gs007_Documents_HUMBER_PROJECTS_Racing_Gmae_Current_Local_Repo_2_Plugins_Do_Not_Touch_Ever_SDL3Integration_Source_SDL3Integration_Public_USDLJoystick_h__Script_SDL3Integration_1439136289(TEXT("/Script/SDL3Integration"),
+	Z_CompiledInDeferFile_FID_Users_gs007_Documents_HUMBER_PROJECTS_Racing_Gmae_Current_Local_Repo_2_Plugins_Do_Not_Touch_Ever_SDL3Integration_Source_SDL3Integration_Public_USDLJoystick_h__Script_SDL3Integration_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_gs007_Documents_HUMBER_PROJECTS_Racing_Gmae_Current_Local_Repo_2_Plugins_Do_Not_Touch_Ever_SDL3Integration_Source_SDL3Integration_Public_USDLJoystick_h__Script_SDL3Integration_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // ********** End Registration *********************************************************************
