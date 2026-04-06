@@ -183,6 +183,7 @@ void USDLJoystick::HandleEvents(SDL_Event* Event)
 
 void USDLJoystick::Update(const float DeltaTime)
 {
+    SDL_StopHapticEffects(Haptic);
     //Should've used inheritance, doofus
     for (auto Element : Buttons)
     {
@@ -198,6 +199,7 @@ void USDLJoystick::Update(const float DeltaTime)
 bool USDLJoystick::ApplyForce(int strength, int durationMs, int xDir, int yDir)
 {
     if (!Haptic) return false;
+    SDL_StopHapticEffects(Haptic);
 
     // If an effect is already running, stop and destroy it first
     if (CurrentForceEffectId >= 0) {
